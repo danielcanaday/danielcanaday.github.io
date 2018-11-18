@@ -4,6 +4,6 @@ A simple website to document personal and professional life.
 
 ## Usage
 
--  interests
+- interests
 - ideas
-- motivation
+- motivations
